@@ -1,5 +1,6 @@
 #cording : utf-8
 #Sample:https://qiita.com/kaz1shuu2/items/921dcbebb7fbea14f085
+#https://zoom-blc.com/what-is-ecdsa
 
 import ecdsa
 import secrets
